@@ -1,0 +1,6 @@
+Number of students: 4
+Highest Scorer: Diana (90.0)
+Lowest Scorer: Charlie (36.0)
+Average Class Score: 67.34
+Pass Count: 3
+Fail Count: 1
